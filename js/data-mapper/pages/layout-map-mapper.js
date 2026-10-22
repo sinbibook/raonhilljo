@@ -25,9 +25,11 @@
   LayoutMapMapper.prototype.mapPage = function () {
     var section = this.getSection();
     // 섹션 없음/비활성 → 404 리다이렉트 (헤더 ROOMS>미리보기 노출과 일관)
+    // 헤더 "미리보기" 숨김과 대메뉴 ROOMS 이동처(첫 객실 상세)도 header-footer-mapper 가
+    // 같은 기준(isLayoutMapEnabled)으로 정한다.
     // preview(iframe)에선 백오피스 데이터 도착 전(currentData 없음) 정적 JSON으로 튕기는 것만 방지.
     // 백오피스에서 '비노출' 선택(currentData 있음)이면 preview에도 404를 보여준다.
-    if (!section || section.enabled === false) {
+    if (!this.isLayoutMapEnabled()) {
       if (window.parent !== window && !(window.previewHandler && window.previewHandler.currentData)) return;
       window.location.replace('404.html');
       return;
@@ -131,6 +133,7 @@
   };
 
   // pre-wrap 배치도 ← layoutMap.about.images[isSelected] (동적 생성)
+  // 배치도는 전체가 보여야 하므로 배경(cover+고정 높이) 대신 <img>로 깔아 원본 비율대로 높이를 잡는다.
   LayoutMapMapper.prototype.mapLayoutImage = function (section) {
     var container = document.querySelector('[data-layout-map-images]');
     if (!container) return;
@@ -138,13 +141,18 @@
     var images = this.getSelectedImages(about.images || []);
 
     if (!images.length) {
-      container.innerHTML = '<div class="img fadeUp" data-scroll="" style="background-repeat:no-repeat;background-position:right top;background-size:cover"></div>';
-      ImageHelpers.applyBackgroundPlaceholder(container.firstChild);
+      container.innerHTML = '<div class="img fadeUp" data-scroll=""><img alt="배치도"></div>';
+      ImageHelpers.applyPlaceholder(container.querySelector('img'));
     } else {
       container.innerHTML = images.map(function (img) {
-        return '<div class="img fadeUp" data-scroll="" style="background:url(' + img.url + ') no-repeat right top;background-size:cover"></div>';
+        return '<div class="img fadeUp" data-scroll=""><img src="' + escapeHtml(img.url) + '" alt="배치도"></div>';
       }).join('');
     }
+    // 이미지 로드 후 실제 높이가 정해지므로 로코 스크롤 높이 재계산
+    var self = this;
+    container.querySelectorAll('img').forEach(function (el) {
+      if (!el.complete) el.addEventListener('load', function () { self.refreshLoco(); }, { once: true });
+    });
   };
 
   document.addEventListener('DOMContentLoaded', function () {
