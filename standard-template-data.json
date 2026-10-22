@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-23T01:31:37.912339602Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-22T11:07:19.870937671Z",
     "templateType": "trip_f",
     "propertyId": "e750d75f-b2e8-4c61-96ee-bd0e5667af25",
     "homepageId": "83570970-54e9-4357-98db-b1cb89769e84"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분",
-    "usageGuide": "[공지사항]\n[부가정보]\n※ 객실 요금은 각 객실의 기준 인원이 이용할 수 있는 요금이며 기준인원을 초과하는 경우 인원 추가금을 지불하셔야합니다.\n※ 객실 최대 인원을 초과한 인원은 입실하실 수 없습니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 현장결제\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불 or 전기그릴\n- 이용 요금: 숯불 20,000원 / 전기그릴 20,000원 (1박기준/현장결제)\n- 이용 시간: 15:00~22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 사계절 이용\n\n[개별수영장]\n- 이용 객실: 전 객실\n- 이용 요금: 미온수(33도~35도) / 40,000원 (1박기준/현장결제)\n- 이용 시간: 15:00~20:00\n- 이용 복장: 수영복,래쉬가드\n- 수영장 크기: 2m x 1.5m\n※ 미온수(33도~35도)\n※ 12~2월 이용불가\n\n[주차장]\n- 주차장 보유\n\n[교통편]\n가조도 카페노을과 파우즈 버튼 중간에 위치해 있습니다.\n\n[자가용 이용 시]\n지번 주소 : 경남 거제시 사등면 창호리 1428-10\n도로명 주소 : 경남 거제시 사등면 가조로 565-5\n\n[대중교통 이용 시]\n거제 고현 버스터미널 정류장 -> 거제 고현 버스터미널 정류장(43-1번) 승차 -> 가조출장소 정류장 하차 -> 도보(약 8분) 556m 이동 -> 라온 힐조 독채 풀빌라 펜션 도착\n\n[주변 관광지]\n1. 가조도 차량 2분\n2. 노을이물드는언덕 전망대 도보 1분\n3. 수협효시공원 차량 9분\n4. 거제 식물원(거제 정글돔) 차량 약 20분\n5. 거제 씨월드 아쿠아리움 차량 30분\n6. 거제 향교 차량 22분\n7. 거제관광모노레일 차량 24분\n8. 죽림해수욕장 차량 28분",
+    "usageGuide": "[부가정보]\n※ 객실 요금은 각 객실의 기준 인원이 이용할 수 있는 요금이며 기준인원을 초과하는 경우 인원 추가금을 지불하셔야합니다.\n※ 객실 최대 인원을 초과한 인원은 입실하실 수 없습니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 10,000원, 유아 1인 10,000원\n(1박기준/현장결제)\n※ 현장결제\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불 or 전기그릴\n- 이용 요금: 숯불 20,000원 / 전기그릴 20,000원 (1박기준/현장결제)\n- 이용 시간: 15:00~22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 사계절 이용\n\n[개별수영장]\n- 이용 객실: 전 객실\n- 이용 요금: 미온수(33도~35도) / 40,000원 (1박기준/현장결제)\n- 이용 시간: 15:00~20:00\n- 이용 복장: 수영복,래쉬가드\n- 수영장 크기: 2m x 1.5m\n※ 미온수(33도~35도)\n※ 12~2월 이용불가\n\n[주차장]\n- 주차장 보유\n\n[교통편]\n가조도 카페노을과 파우즈 버튼 중간에 위치해 있습니다.\n\n[자가용 이용 시]\n지번 주소 : 경남 거제시 사등면 창호리 1428-10\n도로명 주소 : 경남 거제시 사등면 가조로 565-5\n\n[대중교통 이용 시]\n거제 고현 버스터미널 정류장 -> 거제 고현 버스터미널 정류장(43-1번) 승차 -> 가조출장소 정류장 하차 -> 도보(약 8분) 556m 이동 -> 라온 힐조 독채 풀빌라 펜션 도착\n\n[주변 관광지]\n1. 가조도 차량 2분\n2. 노을이물드는언덕 전망대 도보 1분\n3. 수협효시공원 차량 9분\n4. 거제 식물원(거제 정글돔) 차량 약 20분\n5. 거제 씨월드 아쿠아리움 차량 30분\n6. 거제 향교 차량 22분\n7. 거제관광모노레일 차량 24분\n8. 죽림해수욕장 차량 28분",
     "reservationGuide": "[부가정보]\n※ 객실 요금은 각 객실의 기준 인원이 이용할 수 있는 요금이며 기준인원을 초과하는 경우 인원 추가금을 지불하셔야합니다.\n※ 객실 최대 인원을 초과한 인원은 입실하실 수 없습니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -75,7 +75,7 @@
         "name": "개별수영장",
         "description": "",
         "usageGuide": "- 이용 객실: 전 객실\n- 이용 요금: 미온수(33도~35도) / 40,000원 (1박기준/현장결제)\n- 이용 시간: 15:00~20:00\n- 이용 복장: 수영복,래쉬가드\n- 수영장 크기: 2m x 1.5m\n※ 미온수(33도~35도)\n※ 12~2월 이용불가",
-        "displayOrder": 1,
+        "displayOrder": 0,
         "images": [
           {
             "id": "e03526be-b8cf-4598-8be6-e560dbc9b767",
@@ -116,7 +116,7 @@
         "name": "개별바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전객실\n- 바베큐 형태: 숯불 or 전기그릴\n- 이용 요금: 숯불 20,000원 / 전기그릴 20,000원 (1박기준/현장결제)\n- 이용 시간: 15:00~22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 사계절 이용",
-        "displayOrder": 2,
+        "displayOrder": 1,
         "images": [
           {
             "id": "16f5976a-996b-4ac3-92f1-b976d90ffeec",
@@ -146,6 +146,63 @@
             "id": "07776b14-a4ad-4c6e-a021-0f2068f4ee05",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab1c4cdf-17a9-490c-9b6a-bf85deab31df/main/1788934040003-ov1g8bdf9z.webp",
             "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a16341-b27d-7066-95c9-f2d909016221",
+        "name": "미니정원",
+        "description": "아름다운 바다와 자연을 느끼며 \n여유로운 시간을 보내보세요.",
+        "usageGuide": "",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "01a16341-c655-707d-9842-271292c95208",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16341-b27d-7066-95c9-f2d909016221/main/1792666616954-dp6pv2s9ib.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16341-c751-7463-bafb-dac4ef5da04b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16341-b27d-7066-95c9-f2d909016221/main/1792666616981-cb0zzdjdsj.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16341-c9a7-760a-9eb3-0dd13b0b37d6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16341-b27d-7066-95c9-f2d909016221/main/1792666616951-zpibb4fql4.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16341-c65a-749a-adff-f2d9f2d66c88",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16341-b27d-7066-95c9-f2d909016221/main/1792666616982-y6t9o0gk4s.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16341-c6ab-7d07-be9f-bbfc78a1690b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16341-b27d-7066-95c9-f2d909016221/main/1792666616980-0fscozs7sj.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16341-c681-7551-9c06-0950172d9c8d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a16341-b27d-7066-95c9-f2d909016221/main/1792666616955-83wcy2kcuc.webp",
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -212,7 +269,7 @@
           {
             "id": "aa23eb27-cefe-46b4-afe2-1c0b455c7aa8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/23/qOGWvS9ntepX.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -222,7 +279,7 @@
           {
             "id": "3e427a06-4e77-43c6-91f3-a0c611007fd4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/23/tSUygkLYnXiP.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -230,7 +287,7 @@
           {
             "id": "8aadbcac-0943-413c-8010-12321fdf2a5a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/23/OplDK8eLFmiz.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -238,7 +295,7 @@
           {
             "id": "b46be618-95db-4296-b5a1-9387b2f9a988",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/23/HmC6RBjZancJ.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -246,7 +303,7 @@
           {
             "id": "7ada5d83-7d12-4aac-81bf-4703a84e3c9f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/23/MR7s2AZuGhow.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -254,7 +311,7 @@
           {
             "id": "04eacfa9-7e7c-443c-af82-49d4b3b5a85d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/23/atxqMvfLJUBh.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -262,7 +319,7 @@
           {
             "id": "0fa9cfe8-2c4b-40f6-9c23-8f5b462af94d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/23/nr2NRkwcCMWI.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -270,7 +327,7 @@
           {
             "id": "11c44489-036a-4662-856e-880eef00d7e1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/23/3IKlJSk1vgCz.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -278,7 +335,7 @@
           {
             "id": "ad8b6a9c-5abd-46a4-8bb2-ae62390ed3c6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/03/23/hq5QIp0M7jSX.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1497,6 +1554,35 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-F",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
+            }
+          ]
         }
       },
       "popup": {
@@ -2096,7 +2182,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
